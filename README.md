@@ -23,7 +23,7 @@ When the program runs, it should create and show a list of ten numbered menu ite
 10. creamy taco cake
 ```
 
-## Optional Requirements
+## Optional Enhancements
 - Expand your solution to ensure that no descriptive term in a menu item is ever repeated. So if the first menu item is `hot pan-fried dumplings`, the the phrases `hot`, `pan-friend` and `dumpling` cannot individually be used in any other menu items.
 - Expand your solution to allow the user to determine how many items they'd like to see via user input.
   __Note:__ You will need to ensure that this user-chosen number of items is not larger than the number of items you have in your arrays.
