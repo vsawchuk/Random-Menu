@@ -28,3 +28,6 @@ When the program runs, it should create and show a list of ten numbered menu ite
 - Expand your solution to allow the user to determine how many items they'd like to see via user input.
   __Note:__ You will need to ensure that this user-chosen number of items is not larger than the number of items you have in your arrays.
 - Instead of using hardcoded or predefined arrays, make your program accept user input. This user input will be utilized to generate the menu items. You'll need to prompt for and store a varying number of entries for each food-type array.
+
+
+### [Rubric](rubric.md)
