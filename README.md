@@ -1,4 +1,4 @@
-# Project 02: Random Menu Generator
+# Random Menu Generator Project
 Create a program that runs from the Terminal that will create a random menu based on several items that you determine.
 
 ## Baseline
