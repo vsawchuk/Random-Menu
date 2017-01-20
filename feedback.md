@@ -8,7 +8,5 @@
 |	**Baseline**	|	|
 |  Readable code with consistent indentation. 	|   	|
 |   **Extras**	|   	|
-|   Repeats are avoided.	|   	|
-|   The number of items shown determined by user input.	|   	|
-|   User input is used to add menu items.	|   	|
+|  	|   	|
 
