@@ -5,6 +5,6 @@ Congratulations! You're submitting your assignment.
 
 |  Question 	|  Answer 	|
 |---	|---	|
-|  What data structure did you use, an Array or a Hash?  Why?	|   	|
+|  Would a hash work just as well as an Array in this project?  Why?	|   	|
 |  Did you find yourself repeating the same code?  Why did you have to do it that way?	|   	|
 |  What type of loop did you use?  Why did you choose that type?	|   	|
