@@ -23,6 +23,17 @@ When the program runs, it should create and show a list of ten numbered menu ite
 10. creamy taco cake
 ```
 
+## Test & Verify
+
+Before you submit your work it's important to test your program and ensure it's working properly.  Later we will teach you nifty ways to automate this testing, but for now we'll do things the old fashioned way.
+
+Make sure you run your program and ensure it's working.  Among your tests ensure that:
+
+*  The menu items are selected randomly.
+*  There are 10 menu items.
+*  Each item should pull one word from each of the 3 arrays.  
+*  Run the program a few times and ensure that the last word in the arrays are used.  Also ensure that the first word in the arrays are used at least occasionally.  
+
 ## Optional Enhancements
 - Expand your solution to ensure that no descriptive term in a menu item is ever repeated. So if the first menu item is `hot pan-fried dumplings`, the the phrases `hot`, `pan-friend` and `dumpling` cannot individually be used in any other menu items.
 - Expand your solution to allow the user to determine how many items they'd like to see via user input.
