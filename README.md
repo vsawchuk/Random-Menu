@@ -32,6 +32,7 @@ Make sure you run your program and ensure it's working.  Among your tests ensure
 *  The menu items are selected randomly.
 *  There are 10 menu items.
 *  Each item should pull one word from each of the 3 arrays.  
+*  The items are numbers 1-10 (not starting at zero).
 *  Run the program a few times and ensure that the last word in the arrays are used.  Also ensure that the first word in the arrays are used at least occasionally.  
 
 ## Optional Enhancements
